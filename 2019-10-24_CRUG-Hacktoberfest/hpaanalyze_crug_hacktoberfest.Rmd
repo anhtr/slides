@@ -48,7 +48,7 @@ knitr::include_graphics("images/workflow.png")
 ```
 
 ---
-## Demo
+## Details
 
 Almost everything is documented in vignettes
 
