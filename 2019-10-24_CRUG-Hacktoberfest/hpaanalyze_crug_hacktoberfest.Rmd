@@ -43,14 +43,6 @@ library(HPAanalyze)
 
 ---
 
-## Installation
-
-```{r cars, echo = TRUE, eval=FALSE}
-devtools::install_github("trannhatanh89/HPAanalyze")
-```
-
----
-
 ```{r }
 knitr::include_graphics("images/workflow.png")
 ```
@@ -63,6 +55,8 @@ Almost everything is documented in vignettes
 ```{r echo = TRUE, eval = FALSE}
 browseVignettes("HPAanalyze")
 ```
+
+https://doi.org/doi:10.18129/B9.bioc.HPAanalyze
 
 ---
 ## I need some help
